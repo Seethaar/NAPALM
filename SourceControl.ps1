@@ -1,1 +1,1 @@
-Write-Output "This is my file from Seethar/Github"
+Write-Output "This is my file from Github"
